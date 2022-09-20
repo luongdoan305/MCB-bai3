@@ -1,0 +1,44 @@
+.header{
+    font-size: 24px;
+    border-radius: 4px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.row{
+    margin: 0;
+}
+
+.table-header{
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    height : 40px;
+}
+
+.table-content{
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 40px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.switch{
+    font-size: 30px;
+}
+
+input{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    background-color: transparent;
+    border: none;   
+    outline: none;
+}
